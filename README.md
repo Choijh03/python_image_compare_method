@@ -1,0 +1,1 @@
+# pythone_image_compare_method
